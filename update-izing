@@ -1,5 +1,7 @@
 #!/bin/bash
 echo  "Updating izing, please wait."
+cd  ~
+cd izing.io
 git checkout master
 git pull
 cd backend

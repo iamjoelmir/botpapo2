@@ -1,4 +1,4 @@
-# Izing Pro
+# BOT PAPO CRM
 
 Um sistema para gestão de atendimento multicanais centralizado.
 
@@ -72,7 +72,7 @@ sudo apt-get install -y libgbm-dev wget unzip fontconfig locales gconf-service l
 Clone este repositório
 
 ```bash
-git clone git@github.com:ldurans/izing.io.git
+gh repo clone iamjoelmir/botpapo
 ```
 
 Navegue até a pasta backend e crie o arquivo .env:
@@ -204,7 +204,7 @@ Clone o repositório:
 
 ```bash
 cd  ~
-git clone git@github.com:ldurans/izing.io.git
+gh repo clone iamjoelmir/botpapo
 ```
 
 Na pasta backend, crie o arquivo .env:
@@ -453,4 +453,3 @@ Este projeto não é afiliado, associado, autorizado, endossado por, ou de qualq
 [<img src="donate.jpeg" height="150" width="200"/>](donate.jpeg)
 # izing
 
-# izing
